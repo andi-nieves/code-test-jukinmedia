@@ -1,0 +1,22 @@
+.default-button {
+  background: #f04e37;
+  color: #fff;
+  border: 0;
+  font-size: 16px;
+  font-weight: 700;
+  transition: all 0.6s ease 0s;
+  outline: none;
+  border-radius: 0;
+}
+.license-button {
+  width: 100%;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: none;
+  max-width: 425px;
+  margin-top: 0;
+  height: 35px;
+}
+.license-button:hover {
+  background: #333;
+}

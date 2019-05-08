@@ -1,0 +1,33 @@
+.list-view {
+  width: 96px;
+  height: 17px;
+  background: url("../../Assets/Images/Views.png") -5px -59px no-repeat;
+  cursor: pointer;
+}
+.grid-view {
+  width: 99px;
+  height: 17px;
+  background: url("../../Assets/Images/Views.png") 0 -5px no-repeat;
+  cursor: pointer;
+  margin-left: 15px;
+}
+.filter-btn {
+  border: 1px solid #333;
+  text-transform: uppercase;
+  font-weight: 400 !important;
+  font-size: 16px;
+  border-radius: 5px;
+  padding: 5px 10px;
+  background: none;
+}
+.filter-dropdown {
+  margin-top: 10px;
+}
+.list-view.active,
+.list-view:hover {
+  background-position: -5px -86px;
+}
+.grid-view.active,
+.grid-view:hover {
+  background-position: 0 -32px;
+}

@@ -1,0 +1,13 @@
+@import "./libs/_fonts.scss";
+
+html,
+body {
+  font-family: "Muli", Arial !important;
+  background-color: #f2f2f2;
+}
+#root {
+  background-color: #f2f2f2;
+}
+.jukinmedia {
+  fill: #f04f38;
+}

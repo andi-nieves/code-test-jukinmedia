@@ -1,0 +1,1381 @@
+{
+  "totalCount": 42885,
+  "size": 12,
+  "result": [
+    {
+      "durationStr": "0:01:09",
+      "favorites": null,
+      "hasMultipleAngles": false,
+      "id": 1100455,
+      "imgUrl": "https://thumbnails.jukinmedia.com/thumbnail-1557292829361.jpg",
+      "lastUpdated": "2019-05-07T07:30:27Z",
+      "likes": null,
+      "originalPublishingDate": "2017-06-08T04:45:45Z",
+      "signedDate": "2019-05-08T05:16:33Z",
+      "publishingDescription": null,
+      "title": "Owl trying to catch hand shadow",
+      "videoUrl": "https://www.youtube.com/watch?v=fdoDN99jxHI",
+      "views": 337294,
+      "videoTags": [],
+      "footageFormat": "HD",
+      "popularity": { "status": "No Popularity" },
+      "entryId": 249000,
+      "category": { "id": 92, "name": "Animals" },
+      "priority": "Great Video",
+      "licenseeShowTitles": [],
+      "location": "https://www.youtube.com/watch?v=fdoDN99jxHI",
+      "additionalNotes": null,
+      "websiteNotes": null,
+      "storyNotes": "My owl likes to play with me.\r\nHe plays with slippers and shoes.\r\nIt looks like he was curious about shadows, so I started playing with him with the shadows.",
+      "seq": 1,
+      "jmId": "1040633",
+      "isPublicDownloadAvailable": true,
+      "publishEditedFootage": false,
+      "platform": "youtube",
+      "platformVideoId": "fdoDN99jxHI",
+      "who": "Genki M",
+      "where": "https://www.youtube.com/watch?v=fdoDN99jxHI",
+      "when": "2017-06-08T04:45:45Z",
+      "status": "CONTENT_SERVICES",
+      "agreementType": "Exclusive",
+      "linkable": false,
+      "brightCoveVideoId": 6034027525001,
+      "wireVideoUrl": "https://www.youtube.com/watch?v=fdoDN99jxHI",
+      "wirePlatform": "youtube",
+      "wirePlatformVideoId": "fdoDN99jxHI",
+      "publishSiteType": "GENERAL"
+    },
+    {
+      "durationStr": "0:00:23",
+      "favorites": null,
+      "hasMultipleAngles": false,
+      "id": 1100460,
+      "imgUrl": "https://thumbnails.jukinmedia.com/thumbnail-1557291029452.jpg",
+      "lastUpdated": "2019-05-07T08:37:38Z",
+      "likes": null,
+      "originalPublishingDate": "2019-05-08T04:22:40Z",
+      "signedDate": "2019-05-08T04:47:33Z",
+      "publishingDescription": null,
+      "title": "I immediately regret that decision  #waitforit",
+      "videoUrl": "https://www.youtube.com/watch?v=VOrdDOJkWDU",
+      "views": 10,
+      "videoTags": [],
+      "footageFormat": "SD",
+      "popularity": { "status": "No Popularity" },
+      "entryId": 249006,
+      "category": { "id": 100, "name": "Fails" },
+      "priority": "Great Video",
+      "licenseeShowTitles": [],
+      "location": "At home in Mount Dora,Fl",
+      "additionalNotes": null,
+      "websiteNotes": null,
+      "storyNotes": "I heard loud noises from the stairs and found my 9yr old and 5yr old getting creative with entertaining themselves by sliding down wrapped in a blanket. While talking to my 9 yr old,the 5 yr old attempts to one-up his brother and, like me, immediately regrets his life choices as fast as he makes them.",
+      "seq": 1,
+      "jmId": "1040639",
+      "isPublicDownloadAvailable": true,
+      "publishEditedFootage": false,
+      "platform": "youtube",
+      "platformVideoId": "VOrdDOJkWDU",
+      "who": "Kristy M",
+      "where": "At home in Mount Dora,Fl",
+      "when": "2019-05-08T04:22:40Z",
+      "status": "CONTENT_SERVICES",
+      "agreementType": "Exclusive",
+      "linkable": false,
+      "brightCoveVideoId": 6034020056001,
+      "wireVideoUrl": "https://www.youtube.com/watch?v=VOrdDOJkWDU",
+      "wirePlatform": "youtube",
+      "wirePlatformVideoId": "VOrdDOJkWDU",
+      "publishSiteType": "GENERAL"
+    },
+    {
+      "durationStr": "0:04:11",
+      "favorites": 0,
+      "hasMultipleAngles": false,
+      "id": 1097579,
+      "imgUrl": "https://thumbnails.jukinmedia.com/thumbnail-1557267039921.jpg",
+      "lastUpdated": "2019-04-25T08:40:13Z",
+      "likes": 6,
+      "originalPublishingDate": "2018-12-11T00:01:31Z",
+      "signedDate": "2019-05-07T23:01:31Z",
+      "publishingDescription": "<p>This couple loved to climb mountains and the boyfriend wanted to surprise his partner on her birthday climb up a mountain in the Swiss Alps. Adorably, when they got to the summit, he got out a ring and asked her to marry him.<\u002fp>",
+      "title": "Mountain Climber Proposes to Girlfriend at Summit",
+      "videoUrl": "https://www.youtube.com/watch?v=NrTxvCSIbb4",
+      "views": 463,
+      "videoTags": [
+        {
+          "tagId": 2136529,
+          "name": "switzerland",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3244,
+          "name": "outdoor",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 94105511,
+          "name": "Two People",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 23261432,
+          "name": "summit",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 2995,
+          "name": "ring",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 1729316,
+          "name": "day",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4226,
+          "name": "snow",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4425,
+          "name": "winter",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4520,
+          "name": "music",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3757,
+          "name": "cute",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 28574403,
+          "name": "adorable",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4319,
+          "name": "proposal",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4409,
+          "name": "marriage",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 990331,
+          "name": "heartwarming",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3033,
+          "name": "mountain",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3004,
+          "name": "climb",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4299,
+          "name": "hike",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        }
+      ],
+      "footageFormat": "HD",
+      "popularity": { "status": "No Popularity" },
+      "entryId": 245976,
+      "category": { "id": 65414583, "name": "Heartwarming" },
+      "priority": "PMH Programming",
+      "licenseeShowTitles": [],
+      "location": "Grindelwald, Switzerland",
+      "additionalNotes": null,
+      "websiteNotes": null,
+      "storyNotes": "I (Susie) had absolutely no idea I was even getting engaged on this trip (I think you can tell that from my genuine surprise on the video!). Greg had also never done a mountaineering climb like this, and was pretty silent and scared on the way up, but I thought this was because of the height and in hindsight it was that plus the fact that he was hiding a ring in his jacket! This is actually not the hike we were scheduled to do and it almost didn't happen. Greg was up until 2am, trying to plan other areas on our backpacking trip where he could propose because the summit didn't have any pictures and he wasn't sure it wasn't going to be enough of a view. The morning of, we were cleared to do the climb despite the fresh snow that had fallen that night. Greg packed the ring just in case it was the perfect view, which of course it was.",
+      "seq": 1,
+      "jmId": "1037609",
+      "isPublicDownloadAvailable": true,
+      "publishEditedFootage": false,
+      "platform": "youtube",
+      "platformVideoId": "NrTxvCSIbb4",
+      "who": "Greg W",
+      "where": "Grindelwald, Switzerland",
+      "when": "2018-12-11T00:01:31Z",
+      "status": "PROCESSED",
+      "agreementType": "Exclusive",
+      "linkable": true,
+      "brightCoveVideoId": 6033947632001,
+      "wireVideoUrl": "https://www.youtube.com/watch?v=NrTxvCSIbb4",
+      "wirePlatform": "youtube",
+      "wirePlatformVideoId": "NrTxvCSIbb4",
+      "publishSiteType": "GENERAL"
+    },
+    {
+      "durationStr": "0:01:30",
+      "favorites": 0,
+      "hasMultipleAngles": false,
+      "id": 1097275,
+      "imgUrl": "https://thumbnails.jukinmedia.com/thumbnail-1557266740189.jpg",
+      "lastUpdated": "2019-04-24T10:12:29Z",
+      "likes": 39,
+      "originalPublishingDate": "2018-06-17T22:31:44Z",
+      "signedDate": "2019-05-07T22:31:44Z",
+      "publishingDescription": "<p>Bowser and Cola the dogs had not seen their soldier owner for almost a year while he was away on deployment. Adorably, when he walked into the living room the two pups barked and jumped all over him.<\u002fp>",
+      "title": "Soldier Reunites with Two Dogs",
+      "videoUrl": "https://www.youtube.com/watch?v=5LlvOLDE4b8",
+      "views": 1120,
+      "videoTags": [
+        {
+          "tagId": 23478712,
+          "name": "USA",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3209,
+          "name": "dog",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4203,
+          "name": "puppy",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 990331,
+          "name": "heartwarming",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4517,
+          "name": "pet",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 35926746,
+          "name": "pets",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 28574403,
+          "name": "adorable",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 94105494,
+          "name": "One Person",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4230,
+          "name": "living room",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4058,
+          "name": "animal",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 1718303,
+          "name": "two",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 1802574,
+          "name": "soldier",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 1717880,
+          "name": "homecoming",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 98068030,
+          "name": "Pennsylvania",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 2987,
+          "name": "indoor",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 1729316,
+          "name": "day",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3374,
+          "name": "army",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 33624360,
+          "name": "bts react",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 26761070,
+          "name": "bts laugh",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3757,
+          "name": "cute",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        }
+      ],
+      "footageFormat": "HD",
+      "popularity": { "status": "No Popularity" },
+      "entryId": 245692,
+      "category": { "id": 65414583, "name": "Heartwarming" },
+      "priority": "PMH Programming",
+      "licenseeShowTitles": [],
+      "location": "Johnstown, Pennsylvania, USA",
+      "additionalNotes": null,
+      "websiteNotes": null,
+      "storyNotes": "My husband spent a year away in the Middle East and his dog (black lab named bowser) was the only one he cried saying goodbye to so I knew to record them reuniting a year later. Bowser is 8 years old and obsessed with my husband, Caleb.",
+      "seq": 1,
+      "jmId": "1037324",
+      "isPublicDownloadAvailable": true,
+      "publishEditedFootage": false,
+      "platform": "youtube",
+      "platformVideoId": "5LlvOLDE4b8",
+      "who": "Juliet M",
+      "where": "Johnstown, Pennsylvania, USA",
+      "when": "2018-06-17T22:31:44Z",
+      "status": "PROCESSED",
+      "agreementType": "Exclusive",
+      "linkable": true,
+      "brightCoveVideoId": 6033947044001,
+      "wireVideoUrl": "https://www.youtube.com/watch?v=5LlvOLDE4b8",
+      "wirePlatform": "youtube",
+      "wirePlatformVideoId": "5LlvOLDE4b8",
+      "publishSiteType": "GENERAL"
+    },
+    {
+      "durationStr": "0:01:40",
+      "favorites": 0,
+      "hasMultipleAngles": false,
+      "id": 1094318,
+      "imgUrl": "https://thumbnails.jukinmedia.com/thumbnail-1557268269959.jpg",
+      "lastUpdated": "2019-04-11T11:48:59Z",
+      "likes": 5,
+      "originalPublishingDate": "2019-03-17T17:21:09Z",
+      "signedDate": "2019-05-07T22:26:08Z",
+      "publishingDescription": null,
+      "title": "My secret underwater proposal in the Maldives\\gopro 7 cinematic video",
+      "videoUrl": "https://www.youtube.com/watch?v=inErBLUzaxw",
+      "views": 61,
+      "videoTags": [],
+      "footageFormat": "HD",
+      "popularity": { "status": "No Popularity" },
+      "entryId": 242560,
+      "category": { "id": 65414583, "name": "Heartwarming" },
+      "priority": "PMH Programming",
+      "licenseeShowTitles": [],
+      "location": "Maldives",
+      "additionalNotes": null,
+      "websiteNotes": null,
+      "storyNotes": "I already wanted to engage her for long time. \r\nI knew,her dream was go to Maldives,that’s why I gave her this travel for her birthday. She thought, is will be a simple travel, she had no idea, what was my real plan. I don’t like simple things, that’s why I wanted to make the marriage proposal in a special way. \r\nSo, in Maldives, we went to diving and she just saw the question under the water: “Will you marry me?” In the first time she thought, someone just left it there, (she told me this after diving) but then, when she was swimming more closed, she understood, the question is to her. \r\nShe was really surprised and really really happy. She couldn’t believe, it happening with her. \r\nSome of my friends was scared to show this video to his girlfriend.",
+      "seq": 1,
+      "jmId": "1034192",
+      "isPublicDownloadAvailable": true,
+      "publishEditedFootage": false,
+      "platform": "youtube",
+      "platformVideoId": "inErBLUzaxw",
+      "who": "Karsai S",
+      "where": "Maldives",
+      "when": "2019-03-17T17:21:09Z",
+      "status": "CONTENT_SERVICES",
+      "agreementType": "Exclusive",
+      "linkable": false,
+      "brightCoveVideoId": 6033951618001,
+      "wireVideoUrl": "https://www.youtube.com/watch?v=inErBLUzaxw",
+      "wirePlatform": "youtube",
+      "wirePlatformVideoId": "inErBLUzaxw",
+      "publishSiteType": "GENERAL"
+    },
+    {
+      "durationStr": "0:05:28",
+      "favorites": 0,
+      "hasMultipleAngles": false,
+      "id": 1099407,
+      "imgUrl": "https://thumbnails.jukinmedia.com/thumbnail-1557252129915.jpg",
+      "lastUpdated": "2019-05-02T09:47:31Z",
+      "likes": 2,
+      "originalPublishingDate": "2018-10-28T19:11:26Z",
+      "signedDate": "2019-05-07T19:11:26Z",
+      "publishingDescription": "<p>This woman&#39;s grandmother had emigrated back to her home country of Chile decades earlier and they finally reunited there years later. Heartwarmingly, the woman ran through her grandparents&#39; home and gave her grandmother a tight hug while the two of them sobbed with joy.<\u002fp>",
+      "title": "Woman Sees Grandmother After Decades Apart",
+      "videoUrl": "https://www.youtube.com/watch?v=cD3807dppaE",
+      "views": 88,
+      "videoTags": [
+        {
+          "tagId": 4344,
+          "name": "cry",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 22855115,
+          "name": "tearjerker",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 94105666,
+          "name": "Group of People",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3754,
+          "name": "hug",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 28574403,
+          "name": "adorable",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3011,
+          "name": "travel",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3505,
+          "name": "drive",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3596,
+          "name": "chile",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3313,
+          "name": "family",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3300,
+          "name": "grandma",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3194,
+          "name": "grandparent",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3244,
+          "name": "outdoor",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 1729316,
+          "name": "day",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 33624360,
+          "name": "bts react",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 26761070,
+          "name": "bts laugh",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3757,
+          "name": "cute",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 23497174,
+          "name": "visit",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 990331,
+          "name": "heartwarming",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        }
+      ],
+      "footageFormat": "SD",
+      "popularity": { "status": "No Popularity" },
+      "entryId": 247888,
+      "category": { "id": 65414583, "name": "Heartwarming" },
+      "priority": "PMH Programming",
+      "licenseeShowTitles": [],
+      "location": "Salamanca chile",
+      "additionalNotes": null,
+      "websiteNotes": null,
+      "storyNotes": "I was raised by my grandmother and lived with her in chili until I was 14 years old. then I had to go back to the Netherlands and I have not been back to Chile all those years. In October 2018 I went back to Chile for the first time in 26 years, and after a few years I saw my grandmother who is like a mother to me. my sister went with me and this was the first time she was in chili.",
+      "seq": 1,
+      "jmId": "1039521",
+      "isPublicDownloadAvailable": true,
+      "publishEditedFootage": false,
+      "platform": "youtube",
+      "platformVideoId": "cD3807dppaE",
+      "who": "Claudia A",
+      "where": "Salamanca chile",
+      "when": "05-10-2018",
+      "status": "PROCESSED",
+      "agreementType": "Exclusive",
+      "linkable": true,
+      "brightCoveVideoId": 6033863488001,
+      "wireVideoUrl": "https://www.youtube.com/watch?v=cD3807dppaE",
+      "wirePlatform": "youtube",
+      "wirePlatformVideoId": "cD3807dppaE",
+      "publishSiteType": "GENERAL"
+    },
+    {
+      "durationStr": "0:01:07",
+      "favorites": 0,
+      "hasMultipleAngles": false,
+      "id": 1095784,
+      "imgUrl": "https://thumbnails.jukinmedia.com/thumbnail-1557249039914.jpg",
+      "lastUpdated": "2019-04-17T17:50:42Z",
+      "likes": 1,
+      "originalPublishingDate": "2018-10-10T18:41:21Z",
+      "signedDate": "2019-05-07T18:41:21Z",
+      "publishingDescription": "<p>These parents wanted to surprise their kids with the gender of their new baby by putting frosting inside cupcakes. Adorably, when the kids bit into the deserts and saw pink frosting they smiled and one of them sobbed tears of joy about their new baby sister.<\u002fp>",
+      "title": "Kids Excited at Parents' Cupcake Gender Reveal",
+      "videoUrl": "https://www.youtube.com/watch?v=569YTNXS4ec",
+      "views": 80,
+      "videoTags": [
+        {
+          "tagId": 3071,
+          "name": "canada",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3135,
+          "name": "cake",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3821,
+          "name": "desert",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4278,
+          "name": "bite",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4344,
+          "name": "cry",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 33624360,
+          "name": "bts react",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 26761070,
+          "name": "bts laugh",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 28574403,
+          "name": "adorable",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4525,
+          "name": "kid",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 35926723,
+          "name": "kids",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4094,
+          "name": "pregnant",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3594,
+          "name": "pregnancy",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3458,
+          "name": "pink",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4225,
+          "name": "food",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3757,
+          "name": "cute",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 990331,
+          "name": "heartwarming",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 94105526,
+          "name": "Three People",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 2987,
+          "name": "indoor",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 1729316,
+          "name": "day",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3250,
+          "name": "parent",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 1721782,
+          "name": "parenting",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        }
+      ],
+      "footageFormat": "HD",
+      "popularity": { "status": "No Popularity" },
+      "entryId": 244112,
+      "category": { "id": 65414583, "name": "Heartwarming" },
+      "priority": "PMH Programming",
+      "licenseeShowTitles": [],
+      "location": "Calgary",
+      "additionalNotes": null,
+      "websiteNotes": null,
+      "storyNotes": "My wife and I were due to have our baby we thought of a creative way to tell the kids what the gender would be after we found out we got my mom to bake cupcakes with the pink color inside as we found out it was a girl and as shown in the video we sat down with the kids and let them eat the cupcakes to find out and the reaction says it all.",
+      "seq": 1,
+      "jmId": "1035744",
+      "isPublicDownloadAvailable": true,
+      "publishEditedFootage": false,
+      "platform": "youtube",
+      "platformVideoId": "569YTNXS4ec",
+      "who": "chris a",
+      "where": "Calgary",
+      "when": "10.10.2018",
+      "status": "PROCESSED",
+      "agreementType": "Exclusive",
+      "linkable": true,
+      "brightCoveVideoId": 6033845625001,
+      "wireVideoUrl": "https://www.youtube.com/watch?v=569YTNXS4ec",
+      "wirePlatform": "youtube",
+      "wirePlatformVideoId": "569YTNXS4ec",
+      "publishSiteType": "GENERAL"
+    },
+    {
+      "durationStr": "0:00:15",
+      "favorites": null,
+      "hasMultipleAngles": false,
+      "id": 1100425,
+      "imgUrl": "https://thumbnails.jukinmedia.com/thumbnail-1557229914986.jpg",
+      "lastUpdated": "2019-05-07T05:34:33Z",
+      "likes": null,
+      "originalPublishingDate": "2019-05-06T11:58:03Z",
+      "signedDate": "2019-05-07T11:58:03Z",
+      "publishingDescription": "<p>This man was trying to surf on a simulator, but he had one too many drinks and could not keep his balance. The moment the instructor left his hands, he got washed away by the waves and faceplanted into the water.&nbsp;<\u002fp>",
+      "title": "Guy Learning Surfing on Simulator Faceplants into Water",
+      "videoUrl": "https://juk.in/kWnUS",
+      "views": null,
+      "videoTags": [
+        {
+          "tagId": 3081,
+          "name": "water",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4343,
+          "name": "slip",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3900,
+          "name": "faceplant",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3794,
+          "name": "fail",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 94105666,
+          "name": "Group of People",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3898,
+          "name": "shirtless",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3165,
+          "name": "surf",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 1745893,
+          "name": "simulator",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 41519563,
+          "name": "Dominican Republic",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3219,
+          "name": "board",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3675,
+          "name": "fall",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4408,
+          "name": "drunk",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4149,
+          "name": "funny",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4107,
+          "name": "laugh",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        }
+      ],
+      "footageFormat": "HD",
+      "popularity": { "status": "No Popularity" },
+      "entryId": 248969,
+      "category": { "id": 100, "name": "Fails" },
+      "priority": "FailArmy Programming",
+      "licenseeShowTitles": [],
+      "location": "Punta Cana, Dominican Republic",
+      "additionalNotes": null,
+      "websiteNotes": null,
+      "storyNotes": "This was taken in Punta cana. This man walks up who has no front teeth already had too much to drink and I knew this man was going to be a blast. He could barely sit with out falling over. He got onto the surf simulator and did a face plant. I took another video of him as well. He was on it a little longer but did a complete backflip.",
+      "seq": 1,
+      "jmId": "1040602",
+      "isPublicDownloadAvailable": true,
+      "publishEditedFootage": false,
+      "platform": "s3",
+      "platformVideoId": null,
+      "who": "Marco B",
+      "where": "Punta Cana, Dominican Republic",
+      "when": "2019-05-06T11:58:03Z",
+      "status": "PROCESSED",
+      "agreementType": "Non-Exclusive",
+      "linkable": true,
+      "brightCoveVideoId": 6033733476001,
+      "wireVideoUrl": "https://www.youtube.com/watch?v=8fJ56GghLt4",
+      "wirePlatform": "youtube",
+      "wirePlatformVideoId": "8fJ56GghLt4",
+      "publishSiteType": "RIGHTS_MANAGEMENT_YOUTUBE"
+    },
+    {
+      "durationStr": "0:01:20",
+      "favorites": null,
+      "hasMultipleAngles": false,
+      "id": 1099010,
+      "imgUrl": "https://thumbnails.jukinmedia.com/thumbnail-1557228684858.jpg",
+      "lastUpdated": "2019-05-01T05:16:25Z",
+      "likes": null,
+      "originalPublishingDate": "2019-04-29T11:37:24Z",
+      "signedDate": "2019-05-07T11:37:24Z",
+      "publishingDescription": "<p>At a beach in Sydney, a seal was spotted chasing a swarm of salmon to get some breakfast. They ran after them a couple of times before managing to catch a salmon in their mouth.&nbsp;<\u002fp>",
+      "title": "Seal Catches Fish From a Salmon Bait Ball",
+      "videoUrl": "https://juk.in/tzyMU",
+      "views": null,
+      "videoTags": [
+        {
+          "tagId": 4219,
+          "name": "catch",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4058,
+          "name": "animal",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4536,
+          "name": "wildlife",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 1758497,
+          "name": "sea life",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 1833036,
+          "name": "sydney",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4459,
+          "name": "australia",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 2046227,
+          "name": "bait",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3139,
+          "name": "ball",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4335,
+          "name": "seal",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3074,
+          "name": "ocean",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 1623935,
+          "name": "salmon",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4225,
+          "name": "food",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3564,
+          "name": "chase",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3201,
+          "name": "fish",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 1718554,
+          "name": "swarm",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3906,
+          "name": "sea",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 94105341,
+          "name": "Nobody",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3085,
+          "name": "eat",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3081,
+          "name": "water",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        }
+      ],
+      "footageFormat": "HD",
+      "popularity": { "status": "No Popularity" },
+      "entryId": 247457,
+      "category": { "id": 92, "name": "Animals" },
+      "priority": "Great Video",
+      "licenseeShowTitles": [],
+      "location": "Bronte, Sydney, NSW, Australia",
+      "additionalNotes": "",
+      "websiteNotes": "",
+      "storyNotes": "It was down at Bronte beach,Sydney,  NSW. I saw some movement in the water so decided to fly the drone to investigate. The bait ball was about twenty meters off the coastline. The famous seal named Alex was coming in for breakfast. After a couple of runs he caught an Australian salmon. He spent the morning chasing this bait all.",
+      "seq": 1,
+      "jmId": "1039090",
+      "isPublicDownloadAvailable": true,
+      "publishEditedFootage": false,
+      "platform": "s3",
+      "platformVideoId": null,
+      "who": "Sebastian E",
+      "where": "Bronte, Sydney, NSW, Australia",
+      "when": "04/2019",
+      "status": "PROCESSED",
+      "agreementType": "Exclusive",
+      "linkable": true,
+      "brightCoveVideoId": 6033723708001,
+      "wireVideoUrl": "https://www.youtube.com/watch?v=9j0qATETQrA",
+      "wirePlatform": "youtube",
+      "wirePlatformVideoId": "9j0qATETQrA",
+      "publishSiteType": "RIGHTS_MANAGEMENT_YOUTUBE"
+    },
+    {
+      "durationStr": "0:00:23",
+      "favorites": null,
+      "hasMultipleAngles": false,
+      "id": 1099454,
+      "imgUrl": "https://thumbnails.jukinmedia.com/thumbnail-1557227440169.jpg",
+      "lastUpdated": "2019-05-02T13:36:09Z",
+      "likes": null,
+      "originalPublishingDate": "2019-05-01T11:27:30Z",
+      "signedDate": "2019-05-07T11:27:30Z",
+      "publishingDescription": "<p>These two bears at a zoo in St. Louis, Missouri, got excited at seeing two kids near their exhibit window. They came up to them and started jumping in the pool splashing water everywhere. The kids looked thoroughly entertained with the bears&#39; hopping.&nbsp;<\u002fp>",
+      "title": "Bears Jump in Water Near Exhibit Window to Entertain Kids",
+      "videoUrl": "https://juk.in/1yLPN",
+      "views": null,
+      "videoTags": [
+        {
+          "tagId": 94105526,
+          "name": "Three People",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 35926723,
+          "name": "kids",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4463,
+          "name": "little",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4545,
+          "name": "girl",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4164,
+          "name": "zoo",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 98067924,
+          "name": "Missouri",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3757,
+          "name": "cute",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 28574403,
+          "name": "adorable",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4107,
+          "name": "laugh",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3050,
+          "name": "glass",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3528,
+          "name": "window",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3992,
+          "name": "jump",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3537,
+          "name": "pool",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3042,
+          "name": "splash",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3081,
+          "name": "water",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3174,
+          "name": "fun",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 23478712,
+          "name": "USA",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4058,
+          "name": "animal",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4536,
+          "name": "wildlife",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4254,
+          "name": "boy",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3013,
+          "name": "bear",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        }
+      ],
+      "footageFormat": "SD",
+      "popularity": { "status": "No Popularity" },
+      "entryId": 247830,
+      "category": { "id": 92, "name": "Animals" },
+      "priority": "Pet Collective Programming",
+      "licenseeShowTitles": [],
+      "location": "St. Louis, Missouri, USA",
+      "additionalNotes": null,
+      "websiteNotes": null,
+      "storyNotes": "At the St Louis Zoo in St. Louis, MO on April 29th =)",
+      "seq": 3,
+      "jmId": "1039463-3",
+      "isPublicDownloadAvailable": true,
+      "publishEditedFootage": false,
+      "platform": "s3",
+      "platformVideoId": null,
+      "who": "Rachel W",
+      "where": "St. Louis, Missouri, USA",
+      "when": "05/2019",
+      "status": "PROCESSED",
+      "agreementType": "Exclusive",
+      "linkable": true,
+      "brightCoveVideoId": 6033722100001,
+      "wireVideoUrl": "https://www.youtube.com/watch?v=P9_ZJEMnmLE",
+      "wirePlatform": "youtube",
+      "wirePlatformVideoId": "P9_ZJEMnmLE",
+      "publishSiteType": "RIGHTS_MANAGEMENT_YOUTUBE"
+    },
+    {
+      "durationStr": "0:00:08",
+      "favorites": null,
+      "hasMultipleAngles": false,
+      "id": 1099453,
+      "imgUrl": "https://thumbnails.jukinmedia.com/thumbnail-1557227484928.jpg",
+      "lastUpdated": "2019-05-02T13:35:12Z",
+      "likes": null,
+      "originalPublishingDate": "2019-05-01T11:22:54Z",
+      "signedDate": "2019-05-07T11:22:54Z",
+      "publishingDescription": "<p>This girl was entertained thoroughly by a bear who came up to the glass window of their exhibit and started jumping excitedly.&nbsp;<\u002fp>",
+      "title": "Bear at Zoo Entertains Little Girl by Jumping in Water",
+      "videoUrl": "https://juk.in/1q6Be",
+      "views": null,
+      "videoTags": [
+        {
+          "tagId": 1721560,
+          "name": "english",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 98067924,
+          "name": "Missouri",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 23478712,
+          "name": "USA",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4164,
+          "name": "zoo",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4058,
+          "name": "animal",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4536,
+          "name": "wildlife",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4545,
+          "name": "girl",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 28574403,
+          "name": "adorable",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3050,
+          "name": "glass",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3528,
+          "name": "window",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3013,
+          "name": "bear",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 94105494,
+          "name": "One Person",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4463,
+          "name": "little",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4149,
+          "name": "funny",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3757,
+          "name": "cute",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3992,
+          "name": "jump",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3537,
+          "name": "pool",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3081,
+          "name": "water",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4107,
+          "name": "laugh",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3895,
+          "name": "barrier",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 1720406,
+          "name": "excited",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        }
+      ],
+      "footageFormat": "HD",
+      "popularity": { "status": "No Popularity" },
+      "entryId": 247830,
+      "category": { "id": 92, "name": "Animals" },
+      "priority": "Pet Collective Programming",
+      "licenseeShowTitles": [],
+      "location": "St. Louis, Missouri, USA",
+      "additionalNotes": null,
+      "websiteNotes": null,
+      "storyNotes": "At the St Louis Zoo in St. Louis, MO on April 29th =)",
+      "seq": 2,
+      "jmId": "1039463-2",
+      "isPublicDownloadAvailable": true,
+      "publishEditedFootage": false,
+      "platform": "s3",
+      "platformVideoId": null,
+      "who": "Rachel W",
+      "where": "St. Louis, Missouri, USA",
+      "when": "05/2019",
+      "status": "PROCESSED",
+      "agreementType": "Exclusive",
+      "linkable": true,
+      "brightCoveVideoId": 6033722597001,
+      "wireVideoUrl": "https://www.youtube.com/watch?v=uTTgUs_UlPU",
+      "wirePlatform": "youtube",
+      "wirePlatformVideoId": "uTTgUs_UlPU",
+      "publishSiteType": "RIGHTS_MANAGEMENT_YOUTUBE"
+    },
+    {
+      "durationStr": "0:00:09",
+      "favorites": null,
+      "hasMultipleAngles": false,
+      "id": 1099353,
+      "imgUrl": "https://thumbnails.jukinmedia.com/thumbnail-1557227514930.jpg",
+      "lastUpdated": "2019-05-02T05:23:16Z",
+      "likes": null,
+      "originalPublishingDate": "2019-05-01T11:18:03Z",
+      "signedDate": "2019-05-07T11:18:03Z",
+      "publishingDescription": "<p>At a zoo in St. Louis, Missouri, a couple of bears were seen jumping in the pool of their exhibit much to the amusement of a little girl who was visiting. They created big waves with their body as they hopped in the water.&nbsp;<\u002fp>",
+      "title": "Couple of Bears Jump in a Pool at the Zoo",
+      "videoUrl": "https://juk.in/rqpiP",
+      "views": null,
+      "videoTags": [
+        {
+          "tagId": 4058,
+          "name": "animal",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3081,
+          "name": "water",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3537,
+          "name": "pool",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3992,
+          "name": "jump",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4463,
+          "name": "little",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3050,
+          "name": "glass",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3895,
+          "name": "barrier",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 1720406,
+          "name": "excited",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 98067924,
+          "name": "Missouri",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 23478712,
+          "name": "USA",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4536,
+          "name": "wildlife",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3013,
+          "name": "bear",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4164,
+          "name": "zoo",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3196,
+          "name": "wave",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3417,
+          "name": "hop",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 4545,
+          "name": "girl",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3621,
+          "name": "happy",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 94105494,
+          "name": "One Person",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        },
+        {
+          "tagId": 3757,
+          "name": "cute",
+          "subtype": { "key": "EXTERNAL", "name": "External" }
+        }
+      ],
+      "footageFormat": "HD",
+      "popularity": { "status": "No Popularity" },
+      "entryId": 247830,
+      "category": { "id": 92, "name": "Animals" },
+      "priority": "Pet Collective Programming",
+      "licenseeShowTitles": [],
+      "location": "St. Louis, Missouri, USA",
+      "additionalNotes": null,
+      "websiteNotes": null,
+      "storyNotes": "At the St Louis Zoo in St. Louis, MO on April 29th =)",
+      "seq": 1,
+      "jmId": "1039463-1",
+      "isPublicDownloadAvailable": true,
+      "publishEditedFootage": false,
+      "platform": "s3",
+      "platformVideoId": null,
+      "who": "Rachel W",
+      "where": "St. Louis, Missouri, USA",
+      "when": "05/2019",
+      "status": "PROCESSED",
+      "agreementType": "Exclusive",
+      "linkable": true,
+      "brightCoveVideoId": 6033723741001,
+      "wireVideoUrl": "https://www.youtube.com/watch?v=ffCsoNZFTjU",
+      "wirePlatform": "youtube",
+      "wirePlatformVideoId": "ffCsoNZFTjU",
+      "publishSiteType": "RIGHTS_MANAGEMENT_YOUTUBE"
+    }
+  ]
+}

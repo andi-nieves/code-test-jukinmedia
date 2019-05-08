@@ -1,0 +1,53 @@
+.top-navbar {
+  height: 88px;
+}
+.top-navbar a {
+  color: #000;
+  font-weight: 600;
+  font-size: 17px;
+  padding: 0 30px;
+  transition: all 0.6s ease 0s;
+}
+@media (max-width: 1024px) {
+  .top-navbar a {
+    color: #000;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 0 30px;
+    transition: all 0.6s ease 0s;
+  }
+}
+.top-navbar a:hover {
+  text-decoration: none;
+  color: #f04e37;
+}
+.top-navbar .search-form {
+  min-width: 350px;
+}
+.top-search {
+  text-align: right;
+  display: inline !important;
+  position: absolute !important;
+  right: 15px;
+}
+.top-navbar .search-action {
+  background: #f04e37;
+  color: #fff;
+  border: 0;
+  font-size: 16px;
+  font-weight: 700;
+  transition: all 0.6s ease 0s;
+  outline: none;
+  border-radius: 0;
+  height: 44px;
+  padding: 0 25px 2px;
+}
+.top-navbar .search-input {
+  height: 44px;
+  border: 1px solid #bababa;
+  padding-left: 10px;
+  outline: none;
+  border-radius: 0;
+  font-size: 11px;
+  width: 60%;
+}

@@ -1,0 +1,28 @@
+ul.clock {
+  background: #fff;
+  box-shadow: 0 0 7px 0 rgba(51, 51, 51, 0.33);
+  list-style: none;
+  padding: 8px 10px;
+  text-align: center;
+}
+ul.clock li {
+  font-size: 36px;
+}
+
+ul.clock li {
+  display: inline;
+  font-family: "Software Tester 7", sans-serif;
+  font-size: 42px;
+  color: #f04f38;
+  letter-spacing: 2px;
+  text-shadow: -1px 0 #f04f38, 0 1px #f04f38, 1px 0 #f04f38, 0 -1px #f04f38;
+}
+.date {
+  color: #626262;
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  border-left: 1px solid #626262;
+  padding: 10px 0 10px 20px;
+  margin-left: -5px;
+}
